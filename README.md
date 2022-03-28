@@ -28,6 +28,7 @@ All fields are by default required in the data model. Optional fields will be ma
 ```
 Id - Int
 name - String
+description - String
 dueDate - Date
 completed - Bool
 ```
