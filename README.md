@@ -34,7 +34,7 @@ completed - Bool
 ```
 
 ## Endpoints
-These are the endpoints that will be defined in the API which expose the desired functionality for the calling/realtime system.
+These are the endpoints that will be defined in the API which expose the desired functionality for to-do app.
 
 ### Fetch All Tasks
 ---
